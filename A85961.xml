@@ -1,0 +1,195 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proposals for reformation of abuses and subtilties in practise against the lavv and in scandall of it. By William Gery, Esq; of Grays Inn.</title>
+            <author>Gery, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85961</idno>
+            <idno type="STC">Wing G622</idno>
+            <idno type="STC">Thomason E993_27</idno>
+            <idno type="STC">ESTC R207788</idno>
+            <idno type="EEBO-CITATION">99866817</idno>
+            <idno type="PROQUEST">99866817</idno>
+            <idno type="VID">168674</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85961)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168674)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 148:E993[27])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proposals for reformation of abuses and subtilties in practise against the lavv and in scandall of it. By William Gery, Esq; of Grays Inn.</title>
+                  <author>Gery, William.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for William Shears, at this shop in the New Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Law --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168674:1" rendition="simple:additions"/>
+            <p>PROPOSALS FOR Reformation OF <hi>Abuſes</hi> and <hi>Subtilties</hi> in Practiſe againſt the LAW and in <hi>Scandall</hi> of it.</p>
+            <p>By <hi>William Gery,</hi> Eſq; of <hi>Grays-Inn.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>William Shears,</hi> at his Shop in the New Exchange, 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168674:2"/>
+            <pb n="1" facs="tcp:168674:2"/>
+            <head>Propoſals for Reformation of Abuſes, and Subtilties in Practiſe againſt the Law, and in Scandall of it.</head>
+            <p>THe Writs and Proceſſes ordained by Law, are truly in<g ref="char:EOLhyphen"/>tended for remedies, redreſs of wrongs, and oppreſſions.</p>
+            <p>The <hi>Statute</hi> of 25 <hi>Ed.</hi> 3. <hi>c.</hi> 17. which gave the <hi>Capias</hi> in debt, <hi>detinu, aſſumpſit,</hi> which before that Law was not, by the common Law: For no mans perſon might be arreſted for ſuch Cauſes, nor taken in Execution, the lands and chattels of the Debtor, were onely lyable to execution.</p>
+            <p>The <hi>Statute</hi> intended doubtleſſe a good uſe of the <hi>Capias,</hi> for a more ſpeedy way to compell payment of debts; and not to be made a ſtale for wrong and oppreſſion as now it is.</p>
+            <p>The <hi>Statute</hi> is abuſed in this, that men now adayes are by force of the <hi>Capias</hi> and <hi>Latitat</hi> Arreſted and impriſoned upon great Actions, for pretended great ſums of money, when in truth, there is no debt at all due, or any juſt cauſe of Action.</p>
+            <p>And commonly upon great Actions, when little is due, both which are great oppreſſions, and tend to the ruine of the Per<g ref="char:EOLhyphen"/>ſon, and family, in diſhonour of the law, and ſcandall of juſtice: and no remedy by the law for ſo doing, nor equivalent dam<g ref="char:EOLhyphen"/>mage. Will you vex your brother, that would live in peace by you? Revenge your ſelf upon your Neighbour? Will you ru<g ref="char:EOLhyphen"/>ine him in his eſtate or good name? Arreſt him, right or wrong, this will either bend him to your ends, or break him in defence of himſelf; countenancing thereby the greateſt oppreſſion and injuſtice by colour of Juſtice in the uſe of Writs &amp; Proceſs of law.</p>
+            <div type="part">
+               <head>The inconvenience that are by Arreſts.</head>
+               <p n="1">1 Such Arreſts upon fained actions, or great actions, for ſmall debts puts the party to an incapacity of Baile, whereas if the true cauſe of the action were known, baile might be pro<g ref="char:EOLhyphen"/>cured.</p>
+               <pb n="2" facs="tcp:168674:3"/>
+               <p n="2">2 It draws preſent great charges and expences upon the party arreſted, to the undoing of the party, and ſupport onely of the riotous expences of under Sheriffs, Bailiffes, Serjeants, and their adherents, who live upon the ſpoile, and ruine of other men, and to the diſhonour of God.</p>
+               <p n="3">3 It expoſeth the party Arreſted to baſe and vile uſage.</p>
+               <p n="4">4 It impoveriſheth the priſoner, and diſables him to pay.</p>
+               <p n="5">5 It deprives the party Arreſted of the means of livelihood, and uſe of his Trade or Art to live by, for the ſupport of him<g ref="char:EOLhyphen"/>ſelf, his relations, family, Wife and Children, and payment of his debts.</p>
+               <p n="6">6 The words of the Writ of <hi>Capias,</hi> are but <hi>ad reſpond<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ndum,</hi> and the Writ of Debt is but <hi>debet ut dicit:</hi> In the firſt place, the party Arreſted is undone by impriſonment, before he comes to Anſwer; and in the other caſe, upon a ſuppoſall, before it be known, whether a debtor or no debtor.</p>
+               <p n="7">7 There is great danger by Arreſts, manſlaughter often hap<g ref="char:EOLhyphen"/>pening by the violent aſſault of the Sheriffs Bailiffs, and Ser<g ref="char:EOLhyphen"/>jeants in their Arreſts.</p>
+               <p n="8">8 Impriſonment pay no debts, the Keepers and Jailours of priſons devoure all by exceſſive fees.</p>
+               <p n="9">9 Impriſonment deſtroys induſtry, corrupts manners, and nouriſheth idleneſſe.</p>
+               <p n="10">10 By impriſonment the Common-wealth ſuffers dammage, men in priſon being buried alive, whoſe abilities of minde and bodies might be ſerviceable to the publike, in times both of Peace and War, if at liberty.</p>
+               <p>Added to theſe Reaſons, the exceſſive charge incident to theſe Arreſts, the priſoner being kept at the Bailiffs houſe, charges run upon him ten or twenty ſhillings a day and night, for Chamber-rent and expences, which they draw upon the priſoner without mercy. And if the priſoner be carried to <hi>New-gate</hi> for want of means to keep himſelf at the Bailiffs or Serjeants houſe) ſo long as the priſoner lies there, the Credi<g ref="char:EOLhyphen"/>tor is not bound to Declare. And if not able to remove him<g ref="char:EOLhyphen"/>ſelf by <hi>Habeas Corpus,</hi> which is very chargable to doe, the very Writ of <hi>Habeas Corpus,</hi> being 11<hi rend="sup">s</hi> 4<hi rend="sup">d</hi>. or thereabout, and nigh 4l. more according to the number of the Actions he lies under:
+<pb n="3" facs="tcp:168674:3"/>And if not able to remove himſelf, he lies there a priſoner at the will of him that Arreſted him, or put in Bayle, which is not eaſily to be done, when the Action is great, and the true cauſe of the Action not known; And if the priſoner ſo Arreſted be able to remove himſelf to the Upper Bench, there muſt he lie three Terms before the pretended Creditor is bound to De<g ref="char:EOLhyphen"/>clare; and in the mean while, the party Arreſted is unhappily undone by ſuch impriſonment, and his Wiſe and Children; And for this ſo great oppreſſion, it may be, he may get twen<g ref="char:EOLhyphen"/>ty ſhillings coſts for want of the Declaration, a ſatisfaction <hi>in ludibrium Juſtitiae,</hi> that is, in mockery of Juſtice. The caſe is alike if removed by <hi>Habeas Corpus</hi> into the <hi>Fleet</hi>
+               </p>
+               <p>And ſo if the party be Arreſted in any Corporation, and if in the Country, the under Sheriffs will ſit two or three <hi>Habeas Corpus</hi> before they will bring up the priſoner; and untill he hath drawn from the priſoner, conſiderable ſummes for the charge of his remove.</p>
+               <p>And if it ſo happen the under Sheriff to be amerced, for not returning his Writs, ſuch amerciaments are <hi>pro formâ tantum,</hi> not one of twenty eſtreated, or if eſtreated, eaſily compounded.</p>
+            </div>
+            <div type="part">
+               <head>As are the inconveniences by Arreſt, the like are if the party proſecu<g ref="char:EOLhyphen"/>tor proceed by <hi>Outlary</hi> upon the <hi>Capias.</hi>
+               </head>
+               <p n="1">1 A Man may be Outlawed upon any pretence of Debt <hi>de<g ref="char:EOLhyphen"/>tinue, Aſſumpſit,</hi> or other pretence, whether true or falſe, and never know of it.</p>
+               <p n="2">2 The perſon ſo Outlawed may die outlawed, which is of ill conſequence to ſuch perſon.</p>
+               <p n="3">3 The Outlary is chargeable to reverſe.</p>
+               <p n="4">4 The forfeiture by the Outlary goes to the Commonwealth without benefit to the party proſecutor, whoſe ſatisfaction the law intends where there is a juſt debt; but where it is other<g ref="char:EOLhyphen"/>wiſe, the law is abuſed, and the party ſued oppreſſed.</p>
+               <p n="5">5 The parties Outlawed are without any remedy againſt the proſecutor, becauſe he hath the law on his ſide.</p>
+               <pb n="4" facs="tcp:168674:4"/>
+               <p n="6">6 When mens eſtates come to be ſeiſed on in caſes of Out<g ref="char:EOLhyphen"/>lary, the under Sheriffs Bailiffes and their followers lick their fingers, and by undervaluing of the Goods and Chattels of the pretended Debtor, he, his Wife and Children are undone, ha<g ref="char:EOLhyphen"/>vock being made of the eſtate.</p>
+               <p n="7">7 The freehold is liable to ſeiſure upon the Outlawry re<g ref="char:EOLhyphen"/>turned, which if ſeiſed, cannot be reverſed, but by pleading, which is very chargeable to doe.</p>
+               <p n="8">8 The party Outlawed is liable to be ſued, but diſabled to ſue for his debts or for his own right.</p>
+               <p>When therefore theſe proſecutions by Arreſt of the Body, or by exigent ſhall be upon fained, fraudulent and falſe ground, how great is the wrongs, oppreſſions, and in<g ref="char:EOLhyphen"/>juſtice: And no remedie or dammages equivalent be<g ref="char:EOLhyphen"/>cauſe done by Proceſs of the Law.</p>
+            </div>
+            <div type="part">
+               <head>Remedies propoſed for redreſſe of the Inconveniences aforeſaid.</head>
+               <p n="1">1 THat in all caſes of Debt, <hi>detinue, Aſſumpſits,</hi> and the like, there be no arreſt, but a Summons, as before the ſaid Sta<g ref="char:EOLhyphen"/>tute of 25. <hi>E.</hi> 3. <hi>c.</hi> 17. And ſuch Summons to be ſerved by the party proſecutor, either upon the party debtor, or left at his place of dwelling, as is the <hi>Subpena;</hi> and upon Affidavit made of ſuch ſervice, the Sheriff to make his return.</p>
+               <p>This will prevent the fraud of under-Sheriffs and Bailiffs, by whoſe ſhifts and delays, in ſerving and execution of Proceſs, the people are abuſed and wronged and Juſtice delayed.</p>
+               <p>This will avoid the extraordinary charge that men are put unto by under-Sheriffs, their Bailiffs, and Officers, to get their Proceſs and Writs ſerved, eſpecially when it comes to execu<g ref="char:EOLhyphen"/>tion.</p>
+            </div>
+            <div type="part">
+               <pb n="5" facs="tcp:168674:4"/>
+               <head>And for avoiding of feigned Actions, or Arreſts upon greater Actions, where the Debt or duty is but ſmall.</head>
+               <p>IT is propoſed that all contracts hereafter made, be by ſpe<g ref="char:EOLhyphen"/>cialty, if they exceed forty ſhillings, which are properly triable in the County Court or Court Baron, and ought not to be from thence removed, as cunningly they are, by the At<g ref="char:EOLhyphen"/>turnies, to the great vexation of the people, and abuſe of the law, and the Atturnies that doe this not diſcountenanced.</p>
+               <p>This courſe of giving of ſpecialty upon Contracts, will greatly prevent that ſin of Perjury, too commonly practiſed: It was the obſervation of the Lord Chancellor <hi>Egerton,</hi> that a contract by parole, was a contract by perjury, and in <hi>anno</hi> 40, <hi>Elizabeth ter. Tr.</hi> he openly declared in Court, that he would give no relief, to him that claimed a Leaſe by Parol. And in 1. <hi>Jacobi Regis,</hi> that it were good for the Commonwealth, that no promiſes by parol, proved by witneſs, were allowed, conſi<g ref="char:EOLhyphen"/>dering the plenty of witneſſes now adayes, that were <hi>Teſtes Diabolici, qui magis fame quam fama moventer.</hi>
+               </p>
+               <p>And Judge, <hi>Doddridges</hi> opinion in <hi>Slades</hi> caſe, <hi>Cook</hi> 4. part <hi>fol:</hi> 92: is, that the action upon the caſe is a feigned action, and de<g ref="char:EOLhyphen"/>viſed in deceit of the law:</p>
+               <p n="1">1 A Debt created by ſpecialty, will prevent multiplicity of ſutes, which are introduced by parole Contracts, they being ten for one:</p>
+               <p n="2">2 The action upon a ſpecialtie, is a certain action, the action upon the caſe upon paroll contract doubtfull and uncertain:</p>
+               <p n="3">3 The wager of law is taken from the party for his defence, in the action upon the caſe, which in the action of debt is ſaved to him, where the debt is not by ſpecialty:</p>
+               <p n="4">4 The action upon the caſe, is an action of ſurpriſe, mens words being often wreſted beyond the true intent of the party, and there a home-ſwearer carries the cauſe:</p>
+               <p n="5">5 In contracts by ſpecialty there is apparent truth in con<g ref="char:EOLhyphen"/>tracts by paroll, truth is obſcure, and the diſcovery dangerous and dubious.</p>
+               <pb n="6" facs="tcp:168674:5"/>
+               <p n="6">6 Contracts by ſpecialty have a certainty in them, ſo have not contracts by paroll.</p>
+               <p n="7">7 Contracts by ſpecialty are more certain and ſafe for a Ju<g ref="char:EOLhyphen"/>ry to ground their Verdict upon than contracts by paroll.</p>
+               <p n="8">8 In contracts by paroll where perjury is committed, com<g ref="char:EOLhyphen"/>monly the witneſſes produced are never more to be heard of, and the party thereby injured, left without remedy by ſuch ſwearing, againſt ſuch ſwearer, it is otherwiſe in caſes of contracts by ſpecialty, for therein there is more aſſurance of remedie, than in contracts by words, ſuch perſons being more reſpon<g ref="char:EOLhyphen"/>ſable to Juſtice in caſe of miſcarriage.</p>
+               <p>
+                  <hi>Excepted alwayes out of theſe Propoſals, the Contracts and dealings between Merchant and Merchants, and of their Factours, Servants and Agents, as by the Statute of</hi> anno 21. <hi>King</hi> James <hi>is provided.</hi>
+               </p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
